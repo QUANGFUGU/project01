@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:SE Asia Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Pham Thi Ha:mailto:phamthiha@cityascom.vn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Hoang Thi 
+ Van:mailto:hoangthivan@cityascom.vn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nguyen Qua
+ ng Hung:mailto:nguyenquanghung@cityascom.vn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Do Minh Ta
+ m:mailto:dominhtam@cityascom.vn
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=quang.ngvu
+ @gmail.com:mailto:quang.ngvu@gmail.com
+DESCRIPTION;LANGUAGE=en-US:Chào bạn\,\n\nTrước hết\, chúng tôi r
+ ất cảm ơn sự quan tâm bạn đã dành cho công ty của chúng t
+ ôi.\n\nQua hồ sơ của bạn\, chúng tôi nhận thấy bạn có nh
+ ững tiềm năng để trở thành một phần của công ty chúng t
+ ôi.\n\nChúng tôi rất hy vọng có thể trao đổi thêm với bạ
+ n trong một buổi phỏng vấn online qua Link Microsoft Teams phía d
+ ưới.\n\nThời gian:10:00h ngày 27/12/2023\n\nChuẩn bị sẵn sàng
+  các thiết bị để PV online: Mic\, Camera.\n\nBạn vui lòng trả
+  lời email này để xác nhận khả năng tham gia phỏng vấn.\n\
+ nNếu có bất kỳ điều gì bất tiện\, bạn có thể liên h
+ ệ ngay qua email này hoặc qua số điện thoại 024 6290 3032.\n\n
+ Chúng tôi rất mong sớm được gặp và trò chuyện với bạn.
+ \n\nTrân trọng\,\n\n\n\n\n\n\n\n_______________________________________
+ _________________________________________\n\ncuộc họp Microsoft Teams\
+ n\nTham gia trên máy tính\, ứng dụng di động hoặc thiết bị
+  phòng của bạn\n\nNhấn vào đây để tham gia cuộc họp<https
+ ://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQ4OTIwMzUtOWY2NC00NDUx
+ LWFkMTYtNDE4YmEyZTQ2OGVj%40thread.v2/0?context=%7b%22Tid%22%3a%22f53dc270-
+ 15ab-4e55-bca2-7ddcbbfd59d4%22%2c%22Oid%22%3a%22bce15d9c-4239-40f8-b88c-63
+ bc2e839674%22%7d>\n\nID Cuộc họp: 478 227 725 209\n\n\n\nMật mã: vf
+ DQRw\n\nTải xuống Teams<https://www.microsoft.com/en-us/microsoft-team
+ s/download-app> | Tham gia trên web<https://www.microsoft.com/microsoft-t
+ eams/join-a-meeting>\n\nTìm hiểu thêm<https://aka.ms/JoinTeamsMeeting>
+  | Tùy chọn cuộc họp<https://teams.microsoft.com/meetingOptions/?or
+ ganizerId=bce15d9c-4239-40f8-b88c-63bc2e839674&tenantId=f53dc270-15ab-4e55
+ -bca2-7ddcbbfd59d4&threadId=19_meeting_ZDQ4OTIwMzUtOWY2NC00NDUxLWFkMTYtNDE
+ 4YmEyZTQ2OGVj@thread.v2&messageId=0&language=vi-VN>\n\n\n\n\n_____________
+ ___________________________________________________________________\n\n\n
+UID:040000008200E00074C5B7101A82E00800000000255B1A6EBA34DA01000000000000000
+ 0100000002A9568008B1F244A96016AE78EF0DCAF
+SUMMARY;LANGUAGE=en-US:PV_Brse Nguyen Vu Quang 
+DTSTART;TZID=SE Asia Standard Time:20231227T100000
+DTEND;TZID=SE Asia Standard Time:20231227T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20231225T013725Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-OWNERAPPTID:2122100773
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ZDQ4OTIwMzUtOWY2NC00NDUxLWFkMTYtNDE4YmEyZTQ2OGVj%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22f53dc270-15ab-4e55-bca2-7ddcbbfd59d4%22%2c%22O
+ id%22%3a%22bce15d9c-4239-40f8-b88c-63bc2e839674%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/f53dc270-15ab-4e55-bca2-7ddcbbfd59d4/bce15d9c-4239-40f8-b88c-6
+ 3bc2e839674/19_meeting_ZDQ4OTIwMzUtOWY2NC00NDUxLWFkMTYtNDE4YmEyZTQ2OGVj@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_ZDQ4OTIwMzUtOWY2NC00NDU
+ xLWFkMTYtNDE4YmEyZTQ2OGVj@thread.v2"\,"rid":"0"\,"mid":"0"\,"private":true
+ \,"type":0}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams Meeting
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"LocationA
+ nnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"
+ LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"Locatio
+ nFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
